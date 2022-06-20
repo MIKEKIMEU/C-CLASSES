@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\EXCEPTIONS\bin\Debug\net6.0\EXCEPTIONS.exe
+C:\Users\user\Desktop\C#\EXCEPTIONS\bin\Debug\net6.0\EXCEPTIONS.deps.json
+C:\Users\user\Desktop\C#\EXCEPTIONS\bin\Debug\net6.0\EXCEPTIONS.runtimeconfig.json
+C:\Users\user\Desktop\C#\EXCEPTIONS\bin\Debug\net6.0\EXCEPTIONS.dll
+C:\Users\user\Desktop\C#\EXCEPTIONS\bin\Debug\net6.0\EXCEPTIONS.pdb
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.dll
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\refint\EXCEPTIONS.dll
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.pdb
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\EXCEPTIONS.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\EXCEPTIONS\obj\Debug\net6.0\ref\EXCEPTIONS.dll
